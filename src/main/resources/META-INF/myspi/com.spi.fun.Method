@@ -1,0 +1,4 @@
+# test
+method2=com.spi.fun.MethodFun1
+method1=com.spi.fun.MethodFun2
+defaultmethod=com.spi.fun.MethodFunDefault
